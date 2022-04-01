@@ -1,6 +1,6 @@
 {
   "name": "keangj-assets",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "静态资源",
   "main": "index.js",
   "repository": "git@github.com:keangj/AssetsRepo.git",
